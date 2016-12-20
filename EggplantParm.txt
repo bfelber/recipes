@@ -1,0 +1,12 @@
+Ingredients:
+ - Eggplant 
+ - Sauce
+ - Breadcrumbs
+ - Egg
+ - Cheese
+
+Directions:
+	1. Bread the eggplant
+	2. Fry the eggplant
+	3. Put in pan with sauce and cheese
+	4. Bake
